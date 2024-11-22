@@ -1,4 +1,4 @@
-![Ubuntu Package Version](https://img.shields.io/ubuntu/v/ubuntu-wallpapers)
+![Ubuntu Package Version](https://img.shields.io/ubuntu/v/ubuntu-wallpapers) ![PyPI - Version](https://img.shields.io/pypi/v/Django) ![Static Badge](https://img.shields.io/badge/Linter-pycodestyle-green)
 
 # Python - Backend Specialization
 
