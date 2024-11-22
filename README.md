@@ -1,3 +1,5 @@
+![Ubuntu Package Version](https://img.shields.io/ubuntu/v/ubuntu-wallpapers)
+
 # Python - Backend Specialization
 
 ## Description
