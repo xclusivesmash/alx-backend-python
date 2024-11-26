@@ -15,5 +15,6 @@ async def wait_random(max_delay: int = 10):
     Returns:
         None
     """
-    seconds = await asyncio.sleep(random.random(), max_delay)
+    seconds = random.random() * max_delay
+    await asyncio.sleep(seconds)
     return seconds
