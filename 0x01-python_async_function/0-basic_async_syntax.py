@@ -4,6 +4,7 @@ module: basic_async_syntax
 description: syntax based exec.
 """
 import asyncio
+import random
 
 
 async def wait_random(max_delay: int = 10):
@@ -14,3 +15,5 @@ async def wait_random(max_delay: int = 10):
     Returns:
         None
     """
+    seconds = await asyncio.sleep(random.random(), max_delay)
+    return seconds
